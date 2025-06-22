@@ -1,0 +1,21 @@
+id,region,price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,VIN,drive,size,type,paint_color,state
+7314274520,mobile,13788,2014.0,ford,mustang,,6 cylinders,gas,87179.0,clean,automatic,,rwd,sub-compact,coupe,black,al
+7302963842,gadsden-anniston,1,2002.0,toyota,camry,,,gas,165000.0,clean,automatic,,,,,,al
+7316262914,birmingham,20000,1979.0,chevrolet,malibu,like new,8 cylinders,gas,1234.0,clean,automatic,,rwd,,,black,al
+7301711414,birmingham,51990,2018.0,cadillac,escalade esv premium,good,8 cylinders,other,72367.0,clean,automatic,1GYS4JKJ6JR198941,4wd,,SUV,black,al
+7315373194,montgomery,37990,2018.0,tesla,model 3 mid range sedan 4d,good,,electric,25934.0,clean,other,5YJ3E1EA5JF153448,rwd,,sedan,,al
+7311808677,birmingham,14475,2011.0,ford,ranger,excellent,6 cylinders,gas,142842.0,clean,manual,1FTLR4FE4BPB04482,4wd,,pickup,,al
+7310780432,mobile,5995,2006.0,dodge,durango,,6 cylinders,gas,183645.0,clean,automatic,,rwd,mid-size,SUV,,al
+7316196248,huntsville / decatur,27995,2012.0,ford,f250 super duty,,,gas,26896.0,clean,automatic,1FDBF2A65CEC50925,,,,white,al
+7314831178,birmingham,5500,2008.0,nissan,altima,like new,4 cylinders,gas,150000.0,clean,automatic,,fwd,,sedan,white,al
+7304638079,dothan,43998,2020.0,ford,explorer limited,excellent,,gas,24054.0,clean,automatic,1FMSK7FH8LGA30153,,,,white,al
+7312437455,birmingham,22990,2012.0,toyota,tacoma access cab pickup,good,,gas,37725.0,clean,other,5TFTX4CN6CX015282,,,pickup,white,al
+7305231740,huntsville / decatur,35990,2019.0,bmw,5 series 530e xdrive,good,,gas,19260.0,clean,other,WBAJB1C56KB375682,,,sedan,white,al
+7306815945,huntsville / decatur,16995,2008.0,chevrolet,express 3500,,,gas,158114.0,clean,automatic,1GBJG31K281131930,,,,white,al
+7306895581,birmingham,39990,2017.0,ford,f-650 sd,good,10 cylinders,gas,68655.0,clean,automatic,1FDNF6AY9HDB01002,rwd,full-size,truck,white,al
+7312710639,tuscaloosa,12990,1970.0,volvo,,,,gas,99999.0,clean,manual,,,,,,al
+7313280464,birmingham,11977,2014.0,buick,verano,,,gas,54693.0,clean,automatic,1G4PR5SK8E4102383,fwd,,,silver,al
+7305938792,birmingham,4795,2001.0,chevrolet,silverado,excellent,,gas,141005.0,clean,automatic,,,full-size,pickup,black,al
+7308216849,auburn,39590,2018.0,jeep,wrangler unlimited all new,good,6 cylinders,gas,21893.0,clean,other,1C4HJXEGXJW175675,4wd,,SUV,silver,al
+7305165451,birmingham,25590,2017.0,jaguar,xf 20d premium sedan 4d,good,,other,27662.0,clean,automatic,SAJBD4BN2HCY32254,rwd,,sedan,white,al
+7313259831,birmingham,3950,2003.0,honda,civic ex,excellent,4 cylinders,gas,236890.0,clean,automatic,,,,,,al
